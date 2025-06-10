@@ -1,4 +1,4 @@
-# Absurd Gen Z Meme Generator
+# The Caption Forge
 
 ## Overview
 
