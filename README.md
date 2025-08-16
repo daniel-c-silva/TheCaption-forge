@@ -46,21 +46,15 @@ Clone the repository and navigate to the project directory.
 Add your OpenAI API key in the script:
 
 python
-Copiar
-Editar
 client = OpenAI(api_key="your-api-key")
 Run the script:
 
 bash
-Copiar
-Editar
 python meme_generator.py
 The generated meme will be saved as meme.jpg.
 
 File Structure
 bash
-Copiar
-Editar
 meme_generator.py   # Main script
 sample.jpg          # Input image
 meme.jpg            # Output image with caption
